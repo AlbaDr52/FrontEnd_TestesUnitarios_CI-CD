@@ -20,14 +20,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.albadr52.exerciciotesteunitarios"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "8eddc640-e84e-4e41-a103-f4506331b9dd"
+        "projectId": "d359c42a-1113-47ef-9d8d-21cb39a94434"
       }
     }
   }
